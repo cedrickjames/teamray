@@ -322,11 +322,57 @@ clear: both;
 
       <h3>Category 1</h3>
 
-      <a href="#">Link 1</a>
-
-      <a href="#">Link 2</a>
-
-      <a href="#">Link 3</a>
+      <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <p><u>15.07.2021</u></p>
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
 
     </div>
 
@@ -334,24 +380,114 @@ clear: both;
 
       <h3>Category 2</h3>
 
-      <a href="#">Link 1</a>
-
-      <a href="#">Link 2</a>
-
-      <a href="#">Link 3</a>
-
+      <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <p><u>15.07.2021</u></p>
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
     </div>
 
     <div class="column">
 
       <h3>Category 3</h3>
 
-      <a href="#">Link 1</a>
-
-      <a href="#">Link 2</a>
-
-      <a href="#">Link 3</a>
-
+      <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <p><u>15.07.2021</u></p>
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
+                  <a
+                    href="#!"
+                    aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-800 dark:hover:text-white">
+                    <div class="shrink-0">
+                      <img
+                        src="./resources/img/natsutower1.jpg"
+                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
+                        alt="Hollywood Sign on The Hill" />
+                    </div>
+                    <div class="ml-4 grow">
+                      <p class="mb-1 font-semibold ">
+                        Quezon City
+                      </p>
+                      <!-- <p><u>15.07.2021</u></p> -->
+                    </div>
+                  </a>
     </div>
 
   </div>
