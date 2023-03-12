@@ -113,7 +113,7 @@ display: block;
   data-te-navbar-ref>
   <div class="h-full px-6 container flex flex-wrap items-center justify-between mx-0 md:mx-auto ">
   <a class="flex items-center" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation">
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
+        <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
     <!-- <button
@@ -205,7 +205,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower1.jpg"
+                        src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -222,7 +222,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower2.jpg"
+                        src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -239,7 +239,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower3.jpg"
+                        src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -263,7 +263,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower2.jpg"
+                        src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -280,7 +280,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower1.jpg"
+                        src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -297,7 +297,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower3.jpg"
+                        src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -321,7 +321,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower3.jpg"
+                        src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -338,7 +338,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower2.jpg"
+                        src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -355,7 +355,7 @@ display: block;
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
                       <img
-                        src="./resources/img/natsutower1.jpg"
+                        src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -400,7 +400,7 @@ display: block;
 <nav  style="background-color: #0f142a" class="block md:hidden bg-white px-2 sm:px-4 py-2.5 dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
   <a class="flex items-center" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation">
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
+        <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
   <div class="flex md:order-2">

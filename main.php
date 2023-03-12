@@ -46,6 +46,21 @@
     #myBtn:hover {
          background-color: #555; /* Add a dark-grey background on hover */
     }
+    @keyframes slide-up {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-up {
+  animation: slide-up 0.5s ease-out;
+}
+
 </style>
     
 
@@ -85,7 +100,17 @@
 
     <!-- nav -->
     <?php require_once 'megamenu.php';?>
-    
+    <script>
+      var activepage = document.getElementById("navHome");
+activepage.classList.add("border-b-4");
+activepage.classList.add("border-amber-600");
+activepage.classList.add("text-amber-600");
+
+
+
+
+
+    </script>
 
 
 <!-- main -->
@@ -160,7 +185,7 @@
   <div class="px-6 py-12 md:px-12 bg-gray-50 text-gray-800 text-center lg:text-left">
     <div class="container mx-auto xl:px-32">
       <div class="grid lg:grid-cols-2 gap-12 flex items-center">
-        <div class="mt-12 lg:mt-0">
+        <div class="mt-12 lg:mt-0 animate-slide-up">
           <h1 class="text-4xl md:text-5xl xl:text-6xl font-bold tracking-tight mb-12">Let us help you <br /><span class="text-blue-600">make the move</span></h1>
           <a class="inline-block px-7 py-3 mr-2 bg-blue-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#latest" role="button">Get started</a>
           <!-- <a class="inline-block px-7 py-3 bg-transparent text-blue-600 font-medium text-sm leading-snug uppercase rounded hover:text-blue-700 hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Buy a home</a> -->
@@ -382,11 +407,11 @@
 
   <script>
     
-var activepage = document.getElementById("2about");
-activepage.classList.remove("text-gray-700");
-activepage.classList.add("text-blue-700");
-activepage.classList.remove("dark:text-gray-400");
-activepage.classList.add("dark:text-white");
+// var activepage = document.getElementById("2about");
+// activepage.classList.remove("text-gray-700");
+// activepage.classList.add("text-blue-700");
+// activepage.classList.remove("dark:text-gray-400");
+// activepage.classList.add("dark:text-white");
   </script>
 
 </div>
@@ -1069,13 +1094,11 @@ themeToggleBtn.addEventListener('click', function() {
 
 // Script for active page in nav
 
-var activepage = document.getElementById("1home");
-activepage.classList.remove("text-gray-700");
-activepage.classList.add("text-blue-700");
-activepage.classList.remove("dark:text-gray-400");
-activepage.classList.add("dark:text-white");
-
-
+// var activepage = document.getElementById("1home");
+// activepage.classList.remove("text-gray-700");
+// activepage.classList.add("text-blue-700");
+// activepage.classList.remove("dark:text-gray-400");
+// activepage.classList.add("dark:text-white");
 
 
 </script>
