@@ -182,7 +182,7 @@ display: block;
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
             href="../main.php" data-te-ripple-init data-te-ripple-color="light">Home</a>
         </li>
-        <li class="mb-2 dropdown justify-center h-full items-center flex" id="activeNav">
+        <li class="mb-2 dropdown justify-center h-full items-center flex">
           <a class="  flex items-center whitespace-nowrap py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-amber-600 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
             href="../properties" data-te-ripple-init data-te-ripple-color="light" data-te-ripple-duration="100ms" type="button"
             id="dropdownMenuButtonQ" data-te-dropdown-toggle-ref aria-expanded="false" data-te-nav-link-ref
@@ -357,9 +357,9 @@ display: block;
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
             href="../services" data-te-ripple-init data-te-ripple-color="light">Services</a>
         </li>
-        <li class="mb-2 justify-center h-full items-center flex">
+        <li class="mb-2 justify-center h-full items-center flex"  id="activeNav">
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="#" data-te-ripple-init data-te-ripple-color="light">About</a>
+            href="#" data-te-ripple-init data-te-ripple-color="light">About Us</a>
         </li>
       </ul>
     </div>

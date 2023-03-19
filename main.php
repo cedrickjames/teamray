@@ -686,7 +686,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/ther season1.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="productdetail1.php">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
@@ -721,7 +721,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/zeal1.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="#!">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
@@ -755,7 +755,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/theGlades.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="#!">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
@@ -793,7 +793,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/theGlades.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="#!">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
@@ -823,7 +823,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/theGlades.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="#!">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
@@ -849,7 +849,7 @@ activepage.classList.add("text-amber-600");
             data-mdb-ripple="true" data-mdb-ripple-color="light">
             <img src="resources/img/theGlades.jpg"
               class="w-full h-60" alt="Louvre" />
-            <a href="#!">
+            <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
                 style="background-color: rgba(251, 251, 251, 0.2)"></div>
             </a>
