@@ -183,7 +183,7 @@ $_SESSION['message'] = 'Message could not be sent. Mailer Error: '.$mail->ErrorI
     <!-- nav -->
     <?php require_once 'megamenu.php';?>
     <script>
-      var activepage = document.getElementById("navHome");
+      var activepage = document.getElementById("activeNav");
 activepage.classList.add("border-b-4");
 activepage.classList.add("border-amber-600");
 activepage.classList.add("text-amber-600");
@@ -1104,7 +1104,7 @@ activepage.classList.add("text-amber-600");
 <div class="container my-0 sm:my-16  px-0 sm:px-6 mx-auto">
 
   <!-- Section: Design Block -->
-  <section class="mb-8 text-gray-800">
+  <section id="emailform"class="mb-8 text-gray-800">
     <div class="flex justify-center">
       <div class="text-center lg:max-w-3xl md:max-w-xl">
         <h2 class="text-3xl font-bold mb-12 px-6">Contact us</h2>

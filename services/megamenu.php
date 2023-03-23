@@ -110,11 +110,11 @@ display: block;
 
 </style>
 <nav
-  class="main-navbar bg-opacity-0 hidden md:block  fixed flex w-full items-center justify-between   text-amber-600 shadow-lg  dark:text-neutral-200 dark:shadow-black/5 lg:flex-wrap lg:justify-start"
-  style=" z-index: 1000" data-te-navbar-ref>
+  class="main-navbar  hidden md:block  fixed flex w-full items-center justify-between   text-amber-600 shadow-lg  dark:text-neutral-200 dark:shadow-black/5 lg:flex-wrap lg:justify-start"
+  style=" z-index: 1000; background-color: #2c2c2e" data-te-navbar-ref>
   <div class="h-full px-6 container flex flex-wrap items-center justify-between mx-0 md:mx-auto ">
     <a class="flex items-center">
-      <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo">
+      <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo">
       <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
     <!-- <button
@@ -143,9 +143,9 @@ display: block;
     <div class="flex sm:order-2">
       <!-- <div class="mytooltip">+63 9123456789</div> -->
       <div class="relative">
-        <a href="#emailform" type="button" id="cont2"
+        <button type="button" id="cont2"
           class="hidden text-white bg-amber-500  focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-amber-500  dark:focus:ring-amber-800">+63
-          9123456789</a>
+          9123456789</button>
         <button type="button" id="cont1"
           class=" text-white bg-transparent focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-transparent  dark:focus:ring-blue-800 ">
           <svg class=" w-10 h-full m-auto text-white" fill="none" stroke="currentColor" stroke-width="1.5"
@@ -178,13 +178,13 @@ display: block;
     <div style="height: 65px" class="items-center justify-between hidden w-full sm:flex sm:w-auto sm:order-1"
       id="navbar-sticky" id="navbarSupportedContentQ" data-te-collapse-item>
       <ul class="justify-center h-full items-center flex flex-row space-x-12" data-te-navbar-nav-ref>
-        <li class="mb-2 justify-center h-full items-center flex" id="activeNav">
+        <li class="mb-2 justify-center h-full items-center flex">
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="#" data-te-ripple-init data-te-ripple-color="light">Home</a>
+            href="../main.php" data-te-ripple-init data-te-ripple-color="light">Home</a>
         </li>
-        <li class="mb-2 dropdown justify-center h-full items-center flex" >
+        <li class="mb-2 dropdown justify-center h-full items-center flex">
           <a class="  flex items-center whitespace-nowrap py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-amber-600 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="properties" data-te-ripple-init data-te-ripple-color="light" data-te-ripple-duration="100ms" type="button"
+            href="../properties" data-te-ripple-init data-te-ripple-color="light" data-te-ripple-duration="100ms" type="button"
             id="dropdownMenuButtonQ" data-te-dropdown-toggle-ref aria-expanded="false" data-te-nav-link-ref
             es>Properties
             <span class="ml-2 w-2">
@@ -201,15 +201,15 @@ display: block;
               <div class="grid gap-6 md:grid-cols-3 xl:grid-cols-3  text-xs dark:text-black">
                 <div>
                   <p
-                    class="block w-full  px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
+                    class="block w-full border-b border-neutral-200 px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
 
                     Condominium
                   </p>
 
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -220,10 +220,10 @@ display: block;
                       <p>near Sucat Exit SLEX</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -234,10 +234,10 @@ display: block;
                       <p>Brgy San Antonio, Makati City</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -252,13 +252,13 @@ display: block;
                 </div>
                 <div>
                   <p
-                    class="block w-full  px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
+                    class="block w-full border-b border-neutral-200 px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
                     House and Lot
                   </p>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -269,10 +269,10 @@ display: block;
                       <p>Sta. Rosa City, Laguna</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -283,10 +283,10 @@ display: block;
                       <p>Mabalacat City, Pampanga</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -301,13 +301,13 @@ display: block;
                 </div>
                 <div>
                   <p
-                    class="block w-full  px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
+                    class="block w-full border-b border-neutral-200 px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
                     Residential Offices
                   </p>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -318,10 +318,10 @@ display: block;
                       <p>Tagaytay City, Cavite</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -332,10 +332,10 @@ display: block;
                       <p>C5, Pasig City</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
+                  <a href="../properties" aria-current="true"
+                    class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -353,118 +353,13 @@ display: block;
             </div>
           </div>
         </li>
-        <li class="mb-2 dropdown justify-center h-full items-center flex" >
-          <a class="  flex items-center whitespace-nowrap py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-amber-600 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="services" data-te-ripple-init data-te-ripple-color="light" data-te-ripple-duration="100ms" type="button"
-            id="dropdownMenuButtonQ" data-te-dropdown-toggle-ref aria-expanded="false" data-te-nav-link-ref
-            es>Services
-            <span class="ml-2 w-2">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="h-5 w-5">
-                <path fill-rule="evenodd"
-                  d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                  clip-rule="evenodd" />
-              </svg>
-            </span>
-          </a>
-          <div class="mega-menu top-16">
-            <div
-              class="dropdown-content -6 py-5 lg:px-8 w-3/4 xl:w-2/4 m-auto  rounded-lg border-none bg-white bg-clip-padding shadow-lg dark:bg-neutral-50">
-              <div class="grid gap-6 md:grid-cols-3 xl:grid-cols-2  text-xs dark:text-black">
-                <div>
-                  <p
-                    class="block w-full  px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
-
-                    Real Estate Services
-                  </p>
-
-                  <a href="services" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
-                    <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
-                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
-                        alt="Hollywood Sign on The Hill" />
-                    </div>
-                    <div class="ml-4 grow">
-                      <p class="mb-1 font-semibold ">
-                        All Agent Services
-                      </p>
-                
-                    </div>
-                  </a>
-                  <a href="services" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
-                    <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
-                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
-                        alt="Hollywood Sign on The Hill" />
-                    </div>
-                    <div class="ml-4 grow">
-                      <p class="mb-1 font-semibold ">
-                       But with an Agent
-                      </p>
-                     
-                    </div>
-                  </a>
-                  <a href="services" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
-                    <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
-                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
-                        alt="Hollywood Sign on The Hill" />
-                    </div>
-                    <div class="ml-4 grow">
-                      <p class="mb-1 font-semibold ">
-                        Rent with an Agent
-                      </p>
-          
-                    </div>
-                  </a>
-                  <a href="services" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
-                    <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
-                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
-                        alt="Hollywood Sign on The Hill" />
-                    </div>
-                    <div class="ml-4 grow">
-                      <p class="mb-1 font-semibold ">
-                        Lease with an Agent
-                      </p>
-          
-                    </div>
-                  </a>
-                </div>
-                <div>
-                  <p
-                    class="block w-full  px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
-                    Other Services
-                  </p>
-                  <a href="services" aria-current="true"
-                    class="flex w-full items-center  px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
-                    <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
-                        class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
-                        alt="Hollywood Sign on The Hill" />
-                    </div>
-                    <div class="ml-4 grow">
-                      <p class="mb-1 font-semibold ">
-                       Mortgage Services
-                      </p>
-                     
-                    </div>
-                  </a>
-                 
-
-                </div>
-                
-
-              </div>
-            </div>
-          </div>
-        </li>
         <li class="mb-2 justify-center h-full items-center flex">
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="aboutus" data-te-ripple-init data-te-ripple-color="light">About</a>
+            href="../services" data-te-ripple-init data-te-ripple-color="light">Services</a>
+        </li>
+        <li class="mb-2 justify-center h-full items-center flex"  id="activeNav">
+          <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
+            href="#" data-te-ripple-init data-te-ripple-color="light">About Us</a>
         </li>
       </ul>
     </div>
@@ -476,7 +371,7 @@ display: block;
 <nav  style="background-color: #0f142a;z-index: 1000; height: 50px" class="block md:hidden bg-white px-2 sm:px-4 dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
   <div class="h-full container flex flex-wrap items-center justify-between mx-auto">
   <a class="h-full flex items-center" >
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
+        <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
   <div class="flex md:order-2">
@@ -489,7 +384,7 @@ display: block;
   <div class="hidden w-full md:block md:w-auto" id="navbar-multi-level">
       <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
       <li>
-          <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
+          <a href="../main.php" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Home</a>
         </li>
         <li>
             <button id="dropdownNavbarLink" data-dropdown-toggle="dropdownNavbar" class="flex items-center bg-amber-700  justify-between w-full py-2 pl-3 pr-4 font-medium text-white border-b border-gray-100  md:border-0 md:hover:text-white md:p-0 md:w-auto   dark:focus:text-white dark:border-white">Properties <svg class="w-4 h-4 ml-1" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg></button>
@@ -510,10 +405,10 @@ display: block;
             </div>
         </li>
         <li>
-          <a href="#" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
+          <a href="../properties" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Services</a>
         </li>
         <li>
-          <a href="aboutus" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
+          <a href="" class="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">About</a>
         </li>
       </ul>
     </div>
@@ -525,7 +420,7 @@ display: block;
 <div style="z-index: 2000" id="sidebar" class="block md:hidden fixed top-0 left-0 z-40 h-screen p-0 overflow-y-auto transition-transform -translate-x-full bg-white w-full dark:bg-white" tabindex="-1" aria-labelledby="sidebar-label">
 <div style="background-color: #0f142a; height: 50px" class="w-full">
 <a class="h-full  items-center" >
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-full" alt="Flowbite Logo" >
+        <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-full" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
 </div>
@@ -534,8 +429,8 @@ display: block;
         <span class="sr-only">Close menu</span>
     </button>
 <div class="h-4/6 p-4 grid grid-cols-2 md:grid-cols-3 gap-2">
-  <a href="#">  
-    <div class="h-full rounded-lg"  style="background-image: url('resources/img/Air-Residences-Mall-Facade.jpg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
+  <a href="../main.php">  
+    <div class="h-full rounded-lg"  style="background-image: url('../resources/img/Air-Residences-Mall-Facade.jpg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
     <div class=" rounded-lg p-4 grid grid-rows-4 grid-flow-col gap-4w-full h-full bg-gray-900 bg-opacity-50">
 
     <div class="row-start-4 row-span-2 text-white font-extrabold">Home <span class="m-2"><i class="fa-solid fa-greater-than"></i></span></div>
@@ -543,7 +438,7 @@ display: block;
     </div>
   </a>
   <a  data-drawer-target="properties" data-drawer-show="properties" aria-controls="properties"  >  
-    <div class="h-full rounded-lg "  style="background-image: url('resources/img/Air-Residences-Grand-Lobby-1.jpg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
+    <div class="h-full rounded-lg "  style="background-image: url('../resources/img/Air-Residences-Grand-Lobby-1.jpg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
     <div class=" rounded-lg p-4 grid grid-rows-4 grid-flow-col gap-4w-full h-full bg-gray-900 bg-opacity-50">
 
     <div  class="row-start-4 row-span-2 text-white font-extrabold">Properties <span class="m-2"><i class="fa-solid fa-greater-than"></i></span></div>
@@ -552,16 +447,16 @@ display: block;
  
     </div>
             </a>
-            <a href="#">  
-    <div class="h-full rounded-lg "  style="background-image: url('resources/img/condo1.png'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
+            <a href="../main.php">  
+    <div class="h-full rounded-lg "  style="background-image: url('../resources/img/condo1.png'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
     <div class=" rounded-lg p-4 grid grid-rows-4 grid-flow-col gap-4w-full h-full bg-gray-900 bg-opacity-50">
 
     <div class="row-start-4 row-span-2 text-white font-extrabold">Services <span class="m-2"><i class="fa-solid fa-greater-than"></i></span></div>
     </div>
     </div>
             </a>
-            <a href="aboutus">  
-    <div class="h-full rounded-lg "  style="background-image: url('resources/img/air_14.jpeg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
+            <a href="../aboutus">  
+    <div class="h-full rounded-lg "  style="background-image: url('../resources/img/air_14.jpeg'); background-position: center center;background-repeat: no-repeat;background-size: cover;">
     <div class=" rounded-lg p-4 grid grid-rows-4 grid-flow-col gap-4w-full h-full bg-gray-900 bg-opacity-50">
 
     <div class="row-start-4 row-span-2 text-white font-extrabold">About Us <span class="m-2"><i class="fa-solid fa-greater-than"></i></span></div>
@@ -579,7 +474,7 @@ display: block;
 <div style="z-index: 2100" id="properties" class="block md:hidden fixed top-0 left-0 z-40 h-screen p-0 overflow-y-auto transition-transform -translate-x-full bg-white w-full dark:bg-white" tabindex="-1" aria-labelledby="sidebar-label">
 <div style="background-color: #0f142a; height: 50px" class="w-full">
 <a class="h-full  items-center" >
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-full" alt="Flowbite Logo" >
+        <img src="../resources/img/logo/teamlogo - Copy.png" class="mr-3 h-full" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
 </div>
@@ -596,10 +491,10 @@ display: block;
                     Condominium
                   </p>
 
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -610,10 +505,10 @@ display: block;
                       <p>near Sucat Exit SLEX</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -624,10 +519,10 @@ display: block;
                       <p>Brgy San Antonio, Makati City</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -645,10 +540,10 @@ display: block;
                     class="block w-full border-b border-neutral-200 px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
                     House and Lot
                   </p>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -659,10 +554,10 @@ display: block;
                       <p>Sta. Rosa City, Laguna</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -673,10 +568,10 @@ display: block;
                       <p>Mabalacat City, Pampanga</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -694,10 +589,10 @@ display: block;
                     class="block w-full border-b border-neutral-200 px-6 py-2 font-semibold uppercase text-neutral-700 dark:border-neutral-500 ">
                     Residential Offices
                   </p>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower3.jpg"
+                      <img src="../resources/img/natsutower3.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -708,10 +603,10 @@ display: block;
                       <p>Tagaytay City, Cavite</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower2.jpg"
+                      <img src="../resources/img/natsutower2.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>
@@ -722,10 +617,10 @@ display: block;
                       <p>C5, Pasig City</p>
                     </div>
                   </a>
-                  <a href="properties" aria-current="true"
+                  <a href="../properties" aria-current="true"
                     class="flex w-full items-center border-b border-neutral-200 px-6 py-3 transition duration-150 ease-in-out hover:bg-neutral-50 hover:text-neutral-700 dark:border-neutral-500 dark:hover:bg-neutral-400 dark:hover:text-black">
                     <div class="shrink-0">
-                      <img src="resources/img/natsutower1.jpg"
+                      <img src="../resources/img/natsutower1.jpg"
                         class="w-14 rounded-lg rounded shadow-lg dark:shadow-black/10"
                         alt="Hollywood Sign on The Hill" />
                     </div>

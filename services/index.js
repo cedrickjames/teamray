@@ -14,6 +14,7 @@ window.addEventListener('scroll', () => {
     // navbar.classList.add('scrolled');
   } else {
     // Remove the 'scrolled' class from the navbar
-    navbar.style.backgroundColor = '';
+    navbar.style.backgroundColor = '#2c2c2e';
   }
 });
+
