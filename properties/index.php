@@ -21,7 +21,7 @@ $mail->isSMTP();                                      // Set mailer to use SMTP
 $mail->Host = 'smtp.gmail.com';                       // Specify main and backup SMTP servers
 $mail->SMTPAuth = true;                               // Enable SMTP authentication
 $mail->Username = 'ojtteam04@gmail.com';     // Your Email/ Server Email
-$mail->Password = '#';                     // Your Password
+$mail->Password = 'sgkycqwaincxncrh';                     // Your Password
 $mail->SMTPOptions = array(
 'ssl' => array(
 'verify_peer' => false,
@@ -36,7 +36,7 @@ $mail->Port = 465;
 //eto ang mag front  notificationsys01@gmail.com
 
 //Recipients
-$mail->addAddress('cedrickorozo@gmail.com');              
+$mail->addAddress('ojtteam04@gmail.com');              
 $mail->addReplyTo($replyTo);
 
 //Attachment
@@ -52,10 +52,11 @@ $mail->Body    = $senderName .'<br>'.$message;
 $mail->send();
 $_SESSION['message'] = 'Message has been sent';
 // echo $_SESSION['message'];
+echo '<script>alert("Message has been sent")</script>';
 // header("location: form.php");
 } catch (Exception $e) {
 $_SESSION['message'] = 'Message could not be sent. Mailer Error: '.$mail->ErrorInfo;
-// echo $_SESSION['message'];
+echo '<script>alert("Message could not be sent. Mailer Error")</script>';
 
 }
 }
@@ -870,41 +871,7 @@ activepage.classList.add("text-amber-600");
                 <!-- <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Flowbite</span> -->
             </a>
         </div>
-        <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
-            <div>
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Resources</h2>
-                <ul class="text-gray-600 dark:text-gray-400">
-                    <li class="mb-4">
-                        <a href="https://flowbite.com/" class="hover:underline">Flowbite</a>
-                    </li>
-                    <li>
-                        <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Follow us</h2>
-                <ul class="text-gray-600 dark:text-gray-400">
-                    <li class="mb-4">
-                        <a href="https://github.com/themesberg/flowbite" class="hover:underline ">Github</a>
-                    </li>
-                    <li>
-                        <a href="https://discord.gg/4eeurUVvTy" class="hover:underline">Discord</a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
-                <ul class="text-gray-600 dark:text-gray-400">
-                    <li class="mb-4">
-                        <a href="#" class="hover:underline">Privacy Policy</a>
-                    </li>
-                    <li>
-                        <a href="#" class="hover:underline">Terms &amp; Conditions</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        
     </div>
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
     <div class="sm:flex sm:items-center sm:justify-between">

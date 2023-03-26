@@ -139,8 +139,8 @@ activepage.classList.add("text-amber-600");
  <!-- Container for demo purpose -->
 <div>
 
-<section class="mt-16 sm:mt-0 mb-22 "  >
-  <div class=" px-0 bg-gray-50 text-center"  id="home">
+<section class="mt-16  sm:mt-0 mb-22" style="height: 700px"  >
+  <div class=" px-0 bg-gray-50 text-center h-full"  id="home">
 
     <div class="mx-0 xl:px-32 elementor-background-overlay">
     <br>
@@ -151,8 +151,8 @@ activepage.classList.add("text-amber-600");
 
         <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">We'll guide you to your dreamhome</h2>
         <p class="mt-6 text-lg leading-8 text-gray-900">End-to-end real estate services provided by top agents you can trust, be it for buying, selling, or renting, and more.</p>
-        <div class="mt-10 flex items-center justify-center ">
-          <a href="#" class="rounded-md bg-amber-600 px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-amber-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Book an Agent</a>
+        <div class=" mt-10 flex items-center justify-center ">
+          <a href="../contact-us.php" class="m-auto sm:m-0 w-3/4 sm:w-auto rounded-md bg-amber-600 px-3.5 py-2.5 text-sm font-semibold text-gray-900 shadow-sm hover:bg-amber-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">Book an Agent</a>
           
         </div>
       </div>
@@ -163,7 +163,106 @@ activepage.classList.add("text-amber-600");
     </div>
   </div>
 </section>
+<section >
 
+<div class="text-center  lg:flex-auto lg:py-32 lg:text-center">
+        <h6 class="text-sm  tracking-tight text-amber-500 sm:text-lg">Our Services</h6>
+
+        <h2 class="text-3xl font-bold tracking-tight text-amber-700 sm:text-6xl">What do you need help with?</h2>
+        <!-- <p class="mt-6 text-lg leading-8 text-gray-900">End-to-end real estate services provided by top agents you can trust, be it for buying, selling, or renting, and more.</p> -->
+
+        <div class="relative top-10 grid grid-col-1 sm:grid-cols-3">
+        <div
+          class=" m-auto w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white-800 dark:border-gray-200">
+          <a href="buy-with-an-agent.php">
+            <img class="p-8 rounded-t-lg" src="../resources/img/services1.png" alt="product image" />
+          </a>
+          <div class="px-5 pb-5">
+            <a href="buy-with-an-agent.php">
+              <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-gray-900">Buy with us
+               </h5>
+            </a>
+
+          </div>
+        </div>
+         <div
+          class=" m-auto  w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white-800 dark:border-gray-200">
+          <a href="rent-with-an-agent.php">
+            <img class="p-8 rounded-t-lg" src="../resources/img/services2.png" alt="product image" />
+          </a>
+          <div class="px-5 pb-5">
+            <a href="rent-with-an-agent.php">
+              <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-gray-900">Rent with us</h5>
+            </a>
+
+          </div>
+        </div>
+        <div
+          class="m-auto  w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white-800 dark:border-gray-200">
+          <a href="lease-with-an-agent.php">
+            <img class="p-8 rounded-t-lg" src="../resources/img/services3.png" alt="product image" />
+          </a>
+          <div class="px-5 pb-5">
+            <a href="lease-with-an-agent.php">
+              <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-gray-900">Lease with Us</h5>
+            </a>
+
+          </div>
+        </div>
+        </div>
+
+
+
+      </div>
+
+      
+</section>
+<section >
+
+<div class="text-center relative top-20  lg:flex-auto lg:py-10 lg:text-center">
+        <!-- <h6 class="text-sm  tracking-tight text-amber-500 sm:text-lg">Our Services</h6> -->
+
+        <h2 class="text-3xl font-bold tracking-tight text-amber-700 sm:text-6xl">Testimonials</h2>
+        <!-- <p class="mt-6 text-lg leading-8 text-gray-900">End-to-end real estate services provided by top agents you can trust, be it for buying, selling, or renting, and more.</p> -->
+
+        <div class="relative top-10 grid grid-col-1 sm:grid-cols-3 ">
+
+<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
+ 
+    <div class="flex flex-col items-center pb-10">
+        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="../resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
+        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
+        <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
+
+    </div>
+</div>
+
+<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
+ 
+ <div class="flex flex-col items-center pb-10">
+     <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="../resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
+     <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
+     <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
+
+ </div>
+</div>
+<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
+ 
+ <div class="flex flex-col items-center pb-10">
+     <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="../resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
+     <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
+     <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
+
+ </div>
+</div>
+        </div>
+
+
+
+      </div>
+
+      
+</section>
 </div>
 <!-- Container -->
 
