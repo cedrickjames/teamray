@@ -264,47 +264,7 @@ activepage.classList.add("text-amber-600");
 </section>
 <section >
 
-<div class="text-center top-10 relative lg:flex-auto lg:py-10 lg:text-center">
-        <!-- <h6 class="text-sm  tracking-tight text-amber-500 sm:text-lg">Our Services</h6> -->
 
-        <h2 class="text-3xl font-bold tracking-tight text-amber-700 sm:text-6xl">Testimonials</h2>
-        <!-- <p class="mt-6 text-lg leading-8 text-gray-900">End-to-end real estate services provided by top agents you can trust, be it for buying, selling, or renting, and more.</p> -->
-
-        <div class="relative top-10 grid grid-col-1 sm:grid-cols-3 ">
-
-<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
- 
-    <div class="flex flex-col items-center pb-10">
-        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
-        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
-        <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
-
-    </div>
-</div>
-
-<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
- 
- <div class="flex flex-col items-center pb-10">
-     <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
-     <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
-     <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
-
- </div>
-</div>
-<div class="m-auto  p-4 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-white dark:border-gray-200">
- 
- <div class="flex flex-col items-center pb-10">
-     <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="resources/img/profile-picture-3.jpg" alt="Bonnie image"/>
-     <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-gray-900">Bonnie Green</h5>
-     <span class="text-sm text-gray-500 dark:text-gray-900">The agents I've talked so far are so professional and courteous. They are very accommodating and responds to any queries immediately. They always provide updates as well from time to time. Seems really trustworthy and will assist all throughout the process.</span>
-
- </div>
-</div>
-        </div>
-
-
-
-      </div>
 
       
 </section>

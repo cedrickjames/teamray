@@ -210,86 +210,61 @@ activepage.classList.add("text-amber-600");
 <div>
 
 <!-- Section: Design Block -->
-<section class="relative top-12 sm:top-0" style=" background-image:url('https://assets.codepen.io/721952/sky.jpg'); background-repeat: no-repeat; background-size: cover; ">
 
-<div class="main hidden sm:block" style=" height: 100%; font-family: 'Montserrat', sans-serif;
-    font-size:99px;
-    text-align:center;">
-  <svg class="" viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg">
-    <mask id="m">
-      <g class="cloud1">
-        <rect fill="#fff" width="100%" height="801" y="799" />
-        <image xlink:href="https://assets.codepen.io/721952/cloud1Mask.jpg" width="1200" height="800"/>
-      </g>
-    </mask>
-    
-    <image class="sky" xlink:href="https://assets.codepen.io/721952/sky.jpg"  width="1200" height="590" />
-    <image class="mountBg" xlink:href="resources/img/middleBuilding.png" width="1200" height="800"/>    
-    <image class="mountMg" xlink:href="resources/img/leftBuilding.png" width="1200" height="800"/>    
-    <image class="cloud2" xlink:href="https://assets.codepen.io/721952/cloud2.png" width="1200" height="800"/>    
-    <image class="mountFg" xlink:href="resources/img/rightBuilding.png" width="1200" height="800"/>
-    <image class="cloud1" xlink:href="https://assets.codepen.io/721952/cloud1.png" width="1200" height="800"/>
-    <image class="cloud3" xlink:href="https://assets.codepen.io/721952/cloud3.png" width="1200" height="800"/>
-    <text fill="#fff" x="350" y="250" class="teamray">TEAMRAY</text>
-    <polyline class="arrow" fill="#fff" points="599,250 599,289 590,279 590,282 600,292 610,282 610,279 601,289 601,250" />
-    
-    <g mask="url(#m)" >
-      <rect fill="#fff" width="100%" height="100%" />      
-      <text x="350" y="300" fill="#162a43" class="welcome" >WELCOME</text>
+<video class="hidden sm:block w-full" autoplay loop muted>
+        <source
+          src="./resources/vid/condo1.mp4"
+          type="video/mp4" />
 
-    </g>
-    
-    <rect id="arrowBtn" width="100" height="100" opacity="0" x="550" y="220" style="cursor:pointer"/>
-  </svg>
-  
-</div>
-<div class="main block sm:hidden" style=" height: 100%; font-family: 'Montserrat', sans-serif;
-    font-size:99px;
-    text-align:center;">
-  <svg class="" viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg">
-    <mask id="d">
-      <g class="cloud1">
-        <rect fill="#fff" width="100%" height="801" y="799" />
-        <image xlink:href="https://assets.codepen.io/721952/cloud1Mask.jpg" width="1200" height="800"/>
-      </g>
-    </mask>
-    
-    <image class="sky" xlink:href="https://assets.codepen.io/721952/sky.jpg"  width="1200" height="590" />
-    <image class="mountBg" xlink:href="resources/img/middleBuilding.png" width="1200" height="800"/>    
-    <image class="mountMg" xlink:href="resources/img/leftBuilding.png" width="1200" height="800"/>    
-    <image class="cloud2" xlink:href="https://assets.codepen.io/721952/cloud2.png" width="1200" height="800"/>    
-    <image class="mountFg" xlink:href="resources/img/rightBuilding.png" width="1200" height="800"/>
-    <image class="cloud1" xlink:href="https://assets.codepen.io/721952/cloud1.png" width="1200" height="800"/>
-    <image class="cloud3" xlink:href="https://assets.codepen.io/721952/cloud3.png" width="1200" height="800"/>
-    <text fill="#fff" x="350" y="300" class="teamray">TEAMRAY</text>
-    <!-- <polyline class="arrow" fill="#fff" points="599,250 599,289 590,279 590,282 600,292 610,282 610,279 601,289 601,250" /> -->
-    
-    <g mask="url(#d)" >
-      <rect fill="#fff" width="100%" height="100%" />      
-      <text x="350" y="300" fill="#162a43" class="welcome2" >WELCOME</text>
+          </video>
+      <div style="height: 760px; background-color: #0001364f;"
+        class= " hidden sm:block absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed"> 
 
+        <div class="flex h-full items-center justify-center">
+          <div class="px-md-0 px-14 text-center text-white">
+            <h2 class="mb-4 text-3xl font-semibold  bg-opacity-30 ">
+             TEAMRAY INTERNATIONAL
+            </h2>
+            <h5 class="mb-6 text-lg font-semibold">
+              Real State Properties
+            </h5>
+           
+          </div>
+        </div>
+      </div>
+      <video class="block sm:hidden w-full" autoplay loop muted>
+        <source
+          src="./resources/vid/condo1.mp4"
+          type="video/mp4" />
 
-    </g>
-    
-    <rect id="arrowBtn" width="100" height="100" opacity="0" x="550" y="220" style="cursor:pointer"/>
-  </svg>
-  
-</div>
+          </video>
+      <div style="top: 40px; height: 170px; background-color: #0001364f;"
+        class= " block sm:hidden absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed"> 
 
-
-</section>
+        <div class="flex h-full items-center justify-center">
+          <div class="px-md-0 px-14 text-center text-white">
+            <h2 class="mb-4 text-3xl font-semibold  bg-opacity-30 ">
+             TEAMRAY INTERNATIONAL
+            </h2>
+            <h5 class="mb-6 text-lg font-semibold">
+              Real State Properties
+            </h5>
+           
+          </div>
+        </div>
+      </div>
 
 <section class="mt-0 sm:mt-24 mb-22" id="home">
 
   <div class="px-0 sm:px-6  py-12 md:px-12 bg-white text-gray-800 text-center lg:text-left">
     <div class="container mx-auto xl:px-32">
       <div class="grid lg:grid-cols-2 gap-12 flex items-center">
-        <div data-aos="fade-right" class="mt-12 lg:mt-0 ">
+        <div  class="mt-12 lg:mt-0 ">
           <h1  class="text-4xl md:text-5xl xl:text-6xl font-bold tracking-tight mb-12">Let us help you <br /><span class="text-amber-800">make the move</span></h1>
           <a class="inline-block px-7 py-3 mr-2 bg-amber-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-amber-700 hover:shadow-lg focus:bg-amber-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#latest" role="button">Get started</a>
           <!-- <a class="inline-block px-7 py-3 bg-transparent text-blue-600 font-medium text-sm leading-snug uppercase rounded hover:text-blue-700 hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Buy a home</a> -->
         </div>
-        <div  data-aos="fade-down" class="mx-2 sm:mx-0 mb-12 lg:mb-0">
+        <div   class="mx-2 sm:mx-0 mb-12 lg:mb-0">
           <img
             src="resources/img/1.jpg"
             class="w-full rounded-lg shadow-lg h-max"
@@ -679,8 +654,8 @@ activepage.classList.add("text-amber-600");
 
     <h2 class="text-3xl font-bold my-12 text-center">Latest articles</h2>
 
-    <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="grid lg:grid-cols-3 gap-6 xl:gap-x-12">
+    <div 
+     class="grid lg:grid-cols-3 gap-6 xl:gap-x-12">
       <div class="mb-6 lg:mb-0">
         <div>
           <div
@@ -715,8 +690,7 @@ activepage.classList.add("text-amber-600");
 
 
 
-      <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="mb-6 lg:mb-0">
+      <div class="mb-6 lg:mb-0">
         <div>
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
@@ -749,8 +723,7 @@ activepage.classList.add("text-amber-600");
 
 
 
-      <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="mb-6 lg:mb-0">
+      <div class="mb-6 lg:mb-0">
         <div>
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
@@ -787,8 +760,7 @@ activepage.classList.add("text-amber-600");
 
 <!-- second row -->
 
-      <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="mb-6 lg:mb-0">
+      <div class="mb-6 lg:mb-0">
         <div>
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
@@ -817,8 +789,7 @@ activepage.classList.add("text-amber-600");
 
 
 
-      <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="mb-6 lg:mb-0">
+      <div class="mb-6 lg:mb-0">
         <div>
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
@@ -843,8 +814,7 @@ activepage.classList.add("text-amber-600");
         </div>
       </div>
 
-      <div data-aos="fade-up"
-     data-aos-anchor-placement="top-bottom" class="mb-6 lg:mb-0">
+      <div class="mb-6 lg:mb-0">
         <div>
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
@@ -897,7 +867,7 @@ activepage.classList.add("text-amber-600");
     </h2>
 
     <div class="flex flex-wrap items-center">
-      <div data-aos="zoom-in-down" class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0 md:px-6">
+      <div  class="grow-0 shrink-0 basis-auto w-full lg:w-5/12 mb-12 lg:mb-0 md:px-6">
         <div class="relative overflow-hidden bg-no-repeat bg-cover rounded-lg shadow-lg" data-mdb-ripple="true"
           data-mdb-ripple-color="light" style="background-position: 50%">
           <img src="resources/img/image1.png" class="w-full" />
@@ -928,7 +898,7 @@ activepage.classList.add("text-amber-600");
       </div>
 
       <div  class="grow-0 shrink-0 basis-auto w-full lg:w-7/12 md:px-6">
-        <div data-aos="flip-down" class="flex mb-12">
+        <div  class="flex mb-12">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
               <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -946,7 +916,7 @@ activepage.classList.add("text-amber-600");
           </div>
         </div>
 
-        <div data-aos="flip-down" data-aos-delay="100" class="flex mb-12">
+        <div  data-aos-delay="100" class="flex mb-12">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
               <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -965,7 +935,7 @@ activepage.classList.add("text-amber-600");
           </div>
         </div>
 
-        <div data-aos="flip-down" data-aos-delay="200" class="flex mb-12">
+        <div  data-aos-delay="200" class="flex mb-12">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
               <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
@@ -985,7 +955,7 @@ activepage.classList.add("text-amber-600");
           </div>
         </div>
 
-        <div data-aos="flip-down" data-aos-delay="300" class="flex">
+        <div  data-aos-delay="300" class="flex">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
               <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 512">
@@ -1020,7 +990,7 @@ activepage.classList.add("text-amber-600");
     <div class="flex flex-wrap justify-center">
       <div class="grow-0 shrink-0 basis-auto w-full lg:w-10/12 px-3">
         <div class="grid md:grid-cols-2 gap-x-6 items-center">
-          <div data-aos="zoom-in-up" class="mb-6 md:mb-0">
+          <div class="mb-6 md:mb-0">
             <h2 class="text-3xl font-bold">
              Stay in touch
               <br />
@@ -1030,7 +1000,7 @@ activepage.classList.add("text-amber-600");
 
           <div class="mb-6 md:mb-0 md:ml-auto">
             <!-- Facebook -->
-            <button  data-aos="zoom-in-up" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #1877f2">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="w-4 h-4">
@@ -1040,7 +1010,7 @@ activepage.classList.add("text-amber-600");
             </button>
 
             <!-- Twitter -->
-            <button  data-aos="zoom-in-up" data-aos-delay="50" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  data-aos-delay="50" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #1da1f2">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-4 h-4">
@@ -1050,7 +1020,7 @@ activepage.classList.add("text-amber-600");
             </button>
 
             <!-- Google -->
-            <button  data-aos="zoom-in-up" data-aos-delay="100" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  data-aos-delay="100" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #ea4335">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="w-4 h-4">
@@ -1060,7 +1030,7 @@ activepage.classList.add("text-amber-600");
             </button>
 
             <!-- Instagram -->
-            <button  data-aos="zoom-in-up" data-aos-delay="150" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  data-aos-delay="150" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #c13584">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-4 h-4">
@@ -1070,7 +1040,7 @@ activepage.classList.add("text-amber-600");
             </button>
 
             <!-- Linkedin -->
-            <button  data-aos="zoom-in-up" data-aos-delay="200" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  data-aos-delay="200" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #0077b5">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-4 h-4">
@@ -1080,7 +1050,7 @@ activepage.classList.add("text-amber-600");
             </button>
 
             <!-- Pinterest -->
-            <button  data-aos="zoom-in-up" data-aos-delay="250"  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
+            <button  data-aos-delay="250"  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
               class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
               style="background-color: #e60023">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="w-4 h-4">
