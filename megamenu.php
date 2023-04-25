@@ -143,10 +143,10 @@ display: block;
     <div class="flex sm:order-2">
       <!-- <div class="mytooltip">+63 9123456789</div> -->
       <div class="relative">
-        <a href="contact-us.php" type="button" id="cont2"
+        <a  href="tel:+639175253067" href="contact-us.php" type="button" id="cont2"
           class="hidden text-white bg-amber-500  focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-amber-500  dark:focus:ring-amber-800">+63
-          9123456789</a>
-        <a href="contact-us.php" type="button" id="cont1"
+          9175253067</a>
+        <a  href="tel:+639175253067" type="button" id="cont1"
           class=" text-white bg-transparent focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-transparent  dark:focus:ring-blue-800 ">
           <svg class=" w-10 h-full m-auto text-white" fill="none" stroke="currentColor" stroke-width="1.5"
             viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
@@ -462,10 +462,10 @@ display: block;
             </div>
           </div>
         </li>
-        <!-- <li class="mb-2 justify-center h-full items-center flex">
+        <li class="mb-2 justify-center h-full items-center flex">
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="aboutus" data-te-ripple-init data-te-ripple-color="light">About Us</a>
-        </li> -->
+            href="aboutus" data-te-ripple-init data-te-ripple-color="light">About</a>
+        </li>
       </ul>
     </div>
   </div>

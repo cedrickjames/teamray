@@ -213,7 +213,7 @@ activepage.classList.add("text-amber-600");
 
 <video class="hidden sm:block w-full" autoplay loop muted>
         <source
-          src="./resources/vid/condo1.mp4"
+          src="./resources/vid/newsmdc.mp4"
           type="video/mp4" />
 
           </video>
@@ -223,10 +223,10 @@ activepage.classList.add("text-amber-600");
         <div class="flex h-full items-center justify-center">
           <div class="px-md-0 px-14 text-center text-white">
             <h2 class="mb-4 text-3xl font-semibold  bg-opacity-30 ">
-             TEAMRAY INTERNATIONAL
+             TEAMRAY PROPERTIES
             </h2>
             <h5 class="mb-6 text-lg font-semibold">
-              Real State Properties
+              Real State Service
             </h5>
            
           </div>
@@ -234,7 +234,7 @@ activepage.classList.add("text-amber-600");
       </div>
       <video class="block sm:hidden w-full" autoplay loop muted>
         <source
-          src="./resources/vid/condo1.mp4"
+          src="./resources/vid/newsmdc.mp4"
           type="video/mp4" />
 
           </video>
@@ -260,7 +260,7 @@ activepage.classList.add("text-amber-600");
     <div class="container mx-auto xl:px-32">
       <div class="grid lg:grid-cols-2 gap-12 flex items-center">
         <div  class="mt-12 lg:mt-0 ">
-          <h1  class="text-4xl md:text-5xl xl:text-6xl font-bold tracking-tight mb-12">Let us help you <br /><span class="text-amber-800">make the move</span></h1>
+          <h1  class="text-4xl md:text-5xl xl:text-6xl font-bold tracking-tight mb-12">Let us help you <br /><span class="text-amber-800">build your home</span></h1>
           <a class="inline-block px-7 py-3 mr-2 bg-amber-600 text-white font-medium text-sm leading-snug uppercase rounded shadow-md hover:bg-amber-700 hover:shadow-lg focus:bg-amber-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-amber-800 active:shadow-lg transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#latest" role="button">Get started</a>
           <!-- <a class="inline-block px-7 py-3 bg-transparent text-blue-600 font-medium text-sm leading-snug uppercase rounded hover:text-blue-700 hover:bg-gray-100 focus:bg-gray-100 focus:outline-none focus:ring-0 active:bg-gray-200 transition duration-150 ease-in-out" data-mdb-ripple="true" data-mdb-ripple-color="light" href="#!" role="button">Buy a home</a> -->
         </div>
@@ -669,15 +669,13 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
           
-          <h5 class="text-lg font-bold mb-3">The Seasons Residences Natsu Tower</h5>
+          <h5 class="text-lg font-bold mb-3">Zeal Residences</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            
-            <img  class="w-16 h-6 mr-2" src="resources/img/federalland.jpg">
             
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>18.21M</u> - Php 22.89M
-              <a href="#" class="text-gray-900">Metro Manila, Taguig City</a></small>
+            <small>Php <u>3,100,000</u> - Php 3,200,000
+              <a href="#" class="text-gray-900">General Trias, Cavite</a></small>
           </p>
        
           <!-- <p class="text-gray-500">
@@ -703,13 +701,13 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
 
-          <h5 class="text-lg font-bold mb-3">Zeal Residences</h5>
+          <h5 class="text-lg font-bold mb-3">Gold Residential-Offices</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            <img class="w-16 h-6 mr-2"   src="resources/img/smdc.jpg"/></img>
+      
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>3.1M</u> - Php 3.4M
-              <a href="" class="text-gray-900">Cavite, General Trias</a></small>
+            <small>Php <u>7,800,000</u> - Php 9,900,000
+              <a href="" class="text-gray-900">Across NAIA Terminal 1</a></small>
           </p>
           <!-- <p class="text-gray-500">
           Zeal Residences is a new, modern and dynamic residential complex, located in the City of General Trias, Cavite, 
@@ -736,13 +734,13 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
 
-          <h5 class="text-lg font-bold mb-3">The Glades at Timberland Heights</h5>
+          <h5 class="text-lg font-bold mb-3">Glade Residences</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            <img class="w-16 h-6 mr-2"   src="resources/img/filinvest.png"/></img>
+          
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>13M</u> - Php 26M
-              <a href="" class="text-gray-900">Rizal, San Mateo</a></small>
+            <small>Php <u>3,000,000</u> - Php 3,200,000
+              <a href="" class="text-gray-900">Jaro, Ilo-ilo</a></small>
           </p>
           <!-- <p class="text-gray-500">
           Zeal Residences is a new, modern and dynamic residential complex, located in the City of General Trias, Cavite, 
@@ -765,7 +763,7 @@ activepage.classList.add("text-amber-600");
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
             data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img src="resources/img/theGlades.jpg"
+            <img src="resources/img/calm.png"
               class="w-full h-60" alt="Louvre" />
             <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -773,13 +771,13 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
 
-          <h5 class="text-lg font-bold mb-3">The Glades at Timberland Heights</h5>
+          <h5 class="text-lg font-bold mb-3">Calm Residences</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            <img class="w-16 h-6 mr-2"   src="resources/img/filinvest.png"/></img>
+          
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>13M</u> - Php 26M
-              <a href="" class="text-gray-900">Rizal, San Mateo</a></small>
+            <small>Php <u>3,200,000</u> - Php 3,300,000
+              <a href="" class="text-gray-900">Santa Rosa City, Laguna</a></small>
           </p>
         
         </div>
@@ -794,7 +792,7 @@ activepage.classList.add("text-amber-600");
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
             data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img src="resources/img/theGlades.jpg"
+            <img src="resources/img/joy.png"
               class="w-full h-60" alt="Louvre" />
             <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -802,13 +800,13 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
 
-          <h5 class="text-lg font-bold mb-3">The Glades at Timberland Heights</h5>
+          <h5 class="text-lg font-bold mb-3">Joy Residences</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            <img class="w-16 h-6 mr-2"   src="resources/img/filinvest.png"/></img>
+
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>13M</u> - Php 26M
-              <a href="" class="text-gray-900">Rizal, San Mateo</a></small>
+            <small>Php <u>2,900,000</u> - Php 3,,300,00
+              <a href="" class="text-gray-900">Baliwag, Bulacan</a></small>
           </p>
         
         </div>
@@ -819,7 +817,7 @@ activepage.classList.add("text-amber-600");
           <div
             class="relative overflow-hidden bg-no-repeat bg-cover relative overflow-hidden bg-no-repeat bg-cover ripple shadow-lg rounded-lg mb-6"
             data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img src="resources/img/theGlades.jpg"
+            <img src="resources/img/ice tower.png"
               class="w-full h-60" alt="Louvre" />
             <a href="properties">
               <div class="absolute top-0 right-0 bottom-0 left-0 w-full h-full overflow-hidden bg-fixed opacity-0 hover:opacity-100 transition duration-300 ease-in-out"
@@ -827,13 +825,12 @@ activepage.classList.add("text-amber-600");
             </a>
           </div>
 
-          <h5 class="text-lg font-bold mb-3">The Glades at Timberland Heights</h5>
+          <h5 class="text-lg font-bold mb-3">Ice Tower Residential - Offices</h5>
           <div class="mb-3 text-red-600 font-medium text-sm flex items-center justify-center">
-            <img class="w-16 h-6 mr-2"   src="resources/img/filinvest.png"/></img>
           </div>
           <p class="text-gray-500 mb-6">
-            <small>Php <u>13M</u> - Php 26M
-              <a href="" class="text-gray-900">Rizal, San Mateo</a></small>
+            <small>Php <u>7,500,000</u> - Php 12,500,000
+              <a href="" class="text-gray-900">Mall of Asia Complex - Pasay City</a></small>
           </p>
         
         </div>
@@ -879,12 +876,7 @@ activepage.classList.add("text-amber-600");
                   <h3 class="text-2xl uppercase font-bold mb-6">
                     The future is now
                   </h3>
-                  <p style="color: hsl(210, 12%, 80%)">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum quia
-                    laboriosam error consequuntur fugit, doloribus rerum, iure nesciunt amet
-                    quidem veniam cupiditate hic fugiat dolore aperiam quisquam libero earum
-                    quibusdam?
-                  </p>
+                 
                 </div>
               </div>
             </div>
@@ -927,10 +919,10 @@ activepage.classList.add("text-amber-600");
             </div>
           </div>
           <div class="grow ml-4">
-            <p class="font-bold mb-1">Safe and solid</p>
+            <p class="font-bold mb-1">Investing</p>
             <p class="text-gray-500">
-              Eum nostrum fugit numquam, voluptates veniam neque quibusdam ullam aspernatur odio
-              soluta, quisquam dolore animi mollitia a omnis praesentium, expedita nobis!
+            This SMDC Investment primer will help you fully understand what the Corporation is for, and how it can work to serve your best interests.
+
             </p>
           </div>
         </div>
@@ -938,19 +930,15 @@ activepage.classList.add("text-amber-600");
         <div  data-aos-delay="200" class="flex mb-12">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
-              <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">
-                <path fill="currentColor"
-                  d="M624 352h-16V243.9c0-12.7-5.1-24.9-14.1-33.9L494 110.1c-9-9-21.2-14.1-33.9-14.1H416V48c0-26.5-21.5-48-48-48H112C85.5 0 64 21.5 64 48v48H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h272c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H40c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H8c-4.4 0-8 3.6-8 8v16c0 4.4 3.6 8 8 8h208c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H64v128c0 53 43 96 96 96s96-43 96-96h128c0 53 43 96 96 96s96-43 96-96h48c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM160 464c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm320 0c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm80-208H416V144h44.1l99.9 99.9V256z">
-                </path>
-              </svg>
+            <svg   class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 21v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21m0 0h4.5V3.545M12.75 21h7.5V10.75M2.25 21h1.5m18 0h-18M2.25 9l4.5-1.636M18.75 3l-1.5.545m0 6.205l3 1m1.5.5l-1.5-.5M6.75 7.364V3h-3v18m3-13.636l10.5-3.819"></path>
+</svg>
             </div>
           </div>
           <div class="grow ml-4">
-            <p class="font-bold mb-1">Extremely fast</p>
+            <p class="font-bold mb-1">Rental Business</p>
             <p class="text-gray-500">
-              Enim cupiditate, minus nulla dolor cumque iure eveniet facere ullam beatae hic
-              voluptatibus dolores exercitationem? Facilis debitis aspernatur amet nisi iure
-              eveniet facere?
+            Avail our Early Occupancy Program and Move-in now to your new Property 
             </p>
           </div>
         </div>
@@ -958,18 +946,16 @@ activepage.classList.add("text-amber-600");
         <div  data-aos-delay="300" class="flex">
           <div class="shrink-0">
             <div class="p-4 rounded-md shadow-lg" style="background-color: hsl(204, 30%, 20%)">
-              <svg class="w-5 h-5 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 544 512">
-                <path fill="currentColor"
-                  d="M527.79 288H290.5l158.03 158.03c6.04 6.04 15.98 6.53 22.19.68 38.7-36.46 65.32-85.61 73.13-140.86 1.34-9.46-6.51-17.85-16.06-17.85zm-15.83-64.8C503.72 103.74 408.26 8.28 288.8.04 279.68-.59 272 7.1 272 16.24V240h223.77c9.14 0 16.82-7.68 16.19-16.8zM224 288V50.71c0-9.55-8.39-17.4-17.84-16.06C86.99 51.49-4.1 155.6.14 280.37 4.5 408.51 114.83 513.59 243.03 511.98c50.4-.63 96.97-16.87 135.26-44.03 7.9-5.6 8.42-17.23 1.57-24.08L224 288z">
-                </path>
-              </svg>
+            <svg  class="w-5 h-5 text-white" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z"></path>
+</svg>
+      
             </div>
           </div>
           <div class="grow ml-4">
-            <p class="font-bold mb-1">Live analytics</p>
+            <p class="font-bold mb-1">Earn</p>
             <p class="text-gray-500">
-              Illum doloremque ea, blanditiis sed dolor laborum praesentium maxime sint,
-              consectetur atque ipsum ab adipisci ullam aspernatur odio soluta, quisquam dolore
+              Be our marketing partner and earn 250k upto 500k
             </p>
           </div>
         </div>
@@ -986,83 +972,6 @@ activepage.classList.add("text-amber-600");
 <div class="container px-6 mx-auto">
 
   <!-- Section: Design Block -->
-  <section class=" text-gray-800 text-center md:text-left">
-    <div class="flex flex-wrap justify-center">
-      <div class="grow-0 shrink-0 basis-auto w-full lg:w-10/12 px-3">
-        <div class="grid md:grid-cols-2 gap-x-6 items-center">
-          <div class="mb-6 md:mb-0">
-            <h2 class="text-3xl font-bold">
-             Stay in touch
-              <br />
-              <span class="text-amber-600">Join our social media</span>
-            </h2>
-          </div>
-
-          <div class="mb-6 md:mb-0 md:ml-auto">
-            <!-- Facebook -->
-            <button  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #1877f2">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M279.14 288l14.22-92.66h-88.91v-60.13c0-25.35 12.42-50.06 52.24-50.06h40.42V6.26S260.43 0 225.36 0c-73.22 0-121.08 44.38-121.08 124.72v70.62H22.89V288h81.39v224h100.17V288z" />
-              </svg>
-            </button>
-
-            <!-- Twitter -->
-            <button  data-aos-delay="50" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #1da1f2">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z" />
-              </svg>
-            </button>
-
-            <!-- Google -->
-            <button  data-aos-delay="100" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #ea4335">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 488 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M488 261.8C488 403.3 391.1 504 248 504 110.8 504 0 393.2 0 256S110.8 8 248 8c66.8 0 123 24.5 166.3 64.9l-67.5 64.9C258.5 52.6 94.3 116.6 94.3 256c0 86.5 69.1 156.6 153.7 156.6 98.2 0 135-70.4 140.8-106.9H248v-85.3h236.1c2.3 12.7 3.9 24.9 3.9 41.4z" />
-              </svg>
-            </button>
-
-            <!-- Instagram -->
-            <button  data-aos-delay="150" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #c13584">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z" />
-              </svg>
-            </button>
-
-            <!-- Linkedin -->
-            <button  data-aos-delay="200" type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #0077b5">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z" />
-              </svg>
-            </button>
-
-            <!-- Pinterest -->
-            <button  data-aos-delay="250"  type="button" data-mdb-ripple="true" data-mdb-ripple-color="light"
-              class="inline-block p-3 mb-2 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg transition duration-150 ease-in-out"
-              style="background-color: #e60023">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" class="w-4 h-4">
-                <path fill="currentColor"
-                  d="M204 6.5C101.4 6.5 0 74.9 0 185.6 0 256 39.6 296 63.6 296c9.9 0 15.6-27.6 15.6-35.4 0-9.3-23.7-29.1-23.7-67.8 0-80.4 61.2-137.4 140.4-137.4 68.1 0 118.5 38.7 118.5 109.8 0 53.1-21.3 152.7-90.3 152.7-24.9 0-46.2-18-46.2-43.8 0-37.8 26.4-74.4 26.4-113.4 0-66.2-93.9-54.2-93.9 25.8 0 16.8 2.1 35.4 9.6 50.7-13.8 59.4-42 147.9-42 209.1 0 18.9 2.7 37.5 4.5 56.4 3.4 3.8 1.7 3.4 6.9 1.5 50.4-69 48.6-82.5 71.4-172.8 12.3 23.4 44.1 36 69.3 36 106.2 0 153.9-103.5 153.9-196.8C384 71.3 298.2 6.5 204 6.5z" />
-              </svg>
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
   <!-- Section: Design Block -->
 </div>
 
@@ -1187,7 +1096,7 @@ activepage.classList.add("text-amber-600");
               </div>
               <div class="grow ml-6">
                 <p class="font-bold mb-1">Location</p>
-                <p class="text-gray-500">Philippines</p>
+                <p class="text-gray-500">14/F Two Ecom Centre, MOA Complex Pasay City Pasay City, Philippines, Pasay City, Philippines</p>
           
               </div>
             </div>
@@ -1205,7 +1114,7 @@ activepage.classList.add("text-amber-600");
               <div class="grow ml-6">
                 <p class="font-bold mb-1">Email</p>
                 
-                <p class="text-gray-500">sales@teamrayproperties.com</p>
+                <p class="text-gray-500">teamrayproperties@gmail.com</p>
               </div>
             </div>
           </div>
@@ -1221,7 +1130,7 @@ activepage.classList.add("text-amber-600");
               </div>
               <div class="grow ml-6">
                 <p class="font-bold mb-1">Mobile</p>
-                <p class="text-gray-500">+63 9123456789</p>
+                <p class="text-gray-500">0917 525 3067</p>
                 
               </div>
             </div>
@@ -1230,7 +1139,7 @@ activepage.classList.add("text-amber-600");
             <div class="flex align-start">
               <div class="shrink-0">
                 <div  style="background-color: #0f142a" class="p-4  rounded-md shadow-md w-14 h-14 flex items-center justify-center">
-                <a href="#" class="text-amber-500 hover:text-amber-900 dark:hover:text-white">
+                <a href="https://www.facebook.com/teamrayproperties/" class="text-amber-500 hover:text-amber-900 dark:hover:text-white">
                 <i class="fa-brands fa-facebook fa-lg"></i>
               </a>
                 
@@ -1238,7 +1147,7 @@ activepage.classList.add("text-amber-600");
               </div>
               <div class="grow ml-6">
                 <p class="font-bold mb-1">Facebook</p>
-                <p class="text-gray-500">bugs@example.com</p>
+                <a href="https://www.facebook.com/teamrayproperties/" class="text-gray-500">Team Ray</a>
                
               </div>
             </div>
@@ -1305,26 +1214,11 @@ activepage.classList.add("text-amber-600");
         <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://flowbite.com/" class="hover:underline">Teamray™</a>. All Rights Reserved.
         </span>
         <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
-            <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
+            <a href="https://www.facebook.com/teamrayproperties/" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987h-2.54V12h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.771-1.63 1.562V12h2.773l-.443 2.89h-2.33v6.988C18.343 21.128 22 16.991 22 12z" clip-rule="evenodd" /></svg>
                 <span class="sr-only">Facebook page</span>
             </a>
-            <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12.315 2c2.43 0 2.784.013 3.808.06 1.064.049 1.791.218 2.427.465a4.902 4.902 0 011.772 1.153 4.902 4.902 0 011.153 1.772c.247.636.416 1.363.465 2.427.048 1.067.06 1.407.06 4.123v.08c0 2.643-.012 2.987-.06 4.043-.049 1.064-.218 1.791-.465 2.427a4.902 4.902 0 01-1.153 1.772 4.902 4.902 0 01-1.772 1.153c-.636.247-1.363.416-2.427.465-1.067.048-1.407.06-4.123.06h-.08c-2.643 0-2.987-.012-4.043-.06-1.064-.049-1.791-.218-2.427-.465a4.902 4.902 0 01-1.772-1.153 4.902 4.902 0 01-1.153-1.772c-.247-.636-.416-1.363-.465-2.427-.047-1.024-.06-1.379-.06-3.808v-.63c0-2.43.013-2.784.06-3.808.049-1.064.218-1.791.465-2.427a4.902 4.902 0 011.153-1.772A4.902 4.902 0 015.45 2.525c.636-.247 1.363-.416 2.427-.465C8.901 2.013 9.256 2 11.685 2h.63zm-.081 1.802h-.468c-2.456 0-2.784.011-3.807.058-.975.045-1.504.207-1.857.344-.467.182-.8.398-1.15.748-.35.35-.566.683-.748 1.15-.137.353-.3.882-.344 1.857-.047 1.023-.058 1.351-.058 3.807v.468c0 2.456.011 2.784.058 3.807.045.975.207 1.504.344 1.857.182.466.399.8.748 1.15.35.35.683.566 1.15.748.353.137.882.3 1.857.344 1.054.048 1.37.058 4.041.058h.08c2.597 0 2.917-.01 3.96-.058.976-.045 1.505-.207 1.858-.344.466-.182.8-.398 1.15-.748.35-.35.566-.683.748-1.15.137-.353.3-.882.344-1.857.048-1.055.058-1.37.058-4.041v-.08c0-2.597-.01-2.917-.058-3.96-.045-.976-.207-1.505-.344-1.858a3.097 3.097 0 00-.748-1.15 3.098 3.098 0 00-1.15-.748c-.353-.137-.882-.3-1.857-.344-1.023-.047-1.351-.058-3.807-.058zM12 6.865a5.135 5.135 0 110 10.27 5.135 5.135 0 010-10.27zm0 1.802a3.333 3.333 0 100 6.666 3.333 3.333 0 000-6.666zm5.338-3.205a1.2 1.2 0 110 2.4 1.2 1.2 0 010-2.4z" clip-rule="evenodd" /></svg>
-                <span class="sr-only">Instagram page</span>
-            </a>
-            <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84" /></svg>
-                <span class="sr-only">Twitter page</span>
-            </a>
-            <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd" /></svg>
-                <span class="sr-only">GitHub account</span>
-            </a>
-            <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
-                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10c5.51 0 10-4.48 10-10S17.51 2 12 2zm6.605 4.61a8.502 8.502 0 011.93 5.314c-.281-.054-3.101-.629-5.943-.271-.065-.141-.12-.293-.184-.445a25.416 25.416 0 00-.564-1.236c3.145-1.28 4.577-3.124 4.761-3.362zM12 3.475c2.17 0 4.154.813 5.662 2.148-.152.216-1.443 1.941-4.48 3.08-1.399-2.57-2.95-4.675-3.189-5A8.687 8.687 0 0112 3.475zm-3.633.803a53.896 53.896 0 013.167 4.935c-3.992 1.063-7.517 1.04-7.896 1.04a8.581 8.581 0 014.729-5.975zM3.453 12.01v-.26c.37.01 4.512.065 8.775-1.215.25.477.477.965.694 1.453-.109.033-.228.065-.336.098-4.404 1.42-6.747 5.303-6.942 5.629a8.522 8.522 0 01-2.19-5.705zM12 20.547a8.482 8.482 0 01-5.239-1.8c.152-.315 1.888-3.656 6.703-5.337.022-.01.033-.01.054-.022a35.318 35.318 0 011.823 6.475 8.4 8.4 0 01-3.341.684zm4.761-1.465c-.086-.52-.542-3.015-1.659-6.084 2.679-.423 5.022.271 5.314.369a8.468 8.468 0 01-3.655 5.715z" clip-rule="evenodd" /></svg>
-                <span class="sr-only">Dribbbel account</span>
-            </a>
+           
         </div>
     </div>
 </footer>

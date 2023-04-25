@@ -163,12 +163,12 @@ activepage.classList.add("text-amber-600");
   <div style="height: 450px" class="hidden md:block relative bg-white bg-opacity-0 w-full mx-auto max-w-7xl p-6 lg:p-8">
   <div style="height: 400px;" class="relative rounded-lg bg-white bg-opacity-10 w-full max-w-7xl px-6 lg:px-8">
   <div class="p-5 md:p-10 pr-2 lg:pr-10 max-w-lg md:max-w-xl lg:max-w-2xl absolute inset-y-0 right-0">
-      <h2 class="text-right text-xl md:text-4xl font-bold tracking-tight text-white sm:text-6xl">Dustin Henderson </h2>
-      <p class="justify text-right right-0 mt-6 text-lg leading-8 text-gray-300">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua. Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
-      <dd class="text-right text-2xl font-bold leading-9 tracking-tight text-white">CEO of Teamray</dd>
+      <h2 class="text-right text-xl md:text-4xl font-bold tracking-tight text-white sm:text-6xl">Rey Magnipez</h2>
+      <p class="justify text-right right-0 mt-6 text-lg leading-8 text-gray-300">Ray is passionate in helping people to have their own property and grow their Investments specifically with SM Development Corporation. With SMDC having the best affordable condominium all over the Philippines, Ray has been part of it for more than 5 years, attaining the goals on time with excellency.</p>
+      <dd class="text-right text-2xl font-bold leading-9 tracking-tight text-white">International Associate Sales Manager</dd>
     </div>
 </div>
-<div style="height: 450px; background-image:url('../resources/img/ceo.png'); background-position: center center;
+<div style="height: 450px; background-image:url('../resources/img/RayMagnipez.jpg'); background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 " class="rounded-lg left-10 lg:left-20 xl:left-40 top-0 absolute bg-amber-900 w-1/4 max-w-7xl px-6 lg:px-8">
@@ -188,71 +188,7 @@ activepage.classList.add("text-amber-600");
       <dd class="text-2xl font-bold leading-9 tracking-tight text-white">CEO of Teamray</dd>
     </div>
 
-<div class="m-2 sm:m-10 bg-white py-24 sm:py-32">
-  <div class="mx-auto grid max-w-7xl gap-y-20 gap-x-8 px-6 lg:px-8 xl:grid-cols-3">
-    <div class="max-w-2xl">
-      <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
-      <p class="mt-6 text-lg leading-8 text-gray-600">Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae elementum enim vitae ullamcorper suspendisse.</p>
-    </div>
-    <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <li>
-        <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
-          <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
-          </div>
-        </div>
-      </li>
-      <!-- More people... -->
-    </ul>
-  </div>
-</div>
+
 
 </div>
 

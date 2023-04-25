@@ -464,7 +464,7 @@ display: block;
         </li>
         <li class="mb-2 justify-center h-full items-center flex"  id="activeNav">
           <a class="block py-2 pr-2 transition duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-amber-400 dark:focus:text-amber-600 lg:px-2"
-            href="#" data-te-ripple-init data-te-ripple-color="light">About Us</a>
+            href="#" data-te-ripple-init data-te-ripple-color="light">About</a>
         </li>
       </ul>
     </div>
