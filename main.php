@@ -369,7 +369,7 @@ activepage.classList.add("text-amber-600");
         <div class="col-span-3 md:col-span-2 m-2 sm:m-10">
             <!-- <p class="ml-1 my-4 text-lg text-gray-500">License: HLURB LTS No. 30729</p> -->
             <h1 class="mb-4 text-3xl font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl"><span
-                    class="text-transparent bg-clip-text bg-gradient-to-r to-amber-600 from-gray-900">Who we are</span>
+                    class="text-transparent bg-clip-text bg-gray-900">Who we are</span>
             </h1>
 
             <p class="justify-center font-light text-xl text-gray-900 dark:text-gray-900">
