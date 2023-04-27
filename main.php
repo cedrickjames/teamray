@@ -210,50 +210,53 @@ activepage.classList.add("text-amber-600");
 <div>
 
 <!-- Section: Design Block -->
-
+<div class="relative overflow-hidden">
 <video class="hidden sm:block w-full" autoplay loop muted>
         <source
           src="./resources/vid/newsmdc.mp4"
           type="video/mp4" />
 
           </video>
-      <div style="height: 760px; background-color: #0001364f;"
-        class= " hidden sm:block absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed"> 
+          <div style="height:1000px; background-color: #0a0b269e;"
+        class= " hidden sm:block absolute top-0 right-0 bottom-0 left-0  w-full overflow-hidden bg-fixed"> 
 
-        <div class="flex h-full items-center justify-center">
+        <div class="flex h-full mt-40 justify-center">
           <div class="px-md-0 px-14 text-center text-white">
-            <h2 class="mb-4 text-3xl font-semibold  bg-opacity-30 ">
+            <h2 class="mb-4 text-5xl font-semibold  bg-opacity-30 ">
              TEAMRAY PROPERTIES
             </h2>
-            <h5 class="mb-6 text-lg font-semibold">
+            <h5 class="mb-6 text-xl font-semibold">
               Real State Service
             </h5>
            
           </div>
         </div>
       </div>
+
+
+    
       <video class="block sm:hidden w-full" autoplay loop muted>
         <source
           src="./resources/vid/newsmdc.mp4"
           type="video/mp4" />
 
           </video>
-      <div style="top: 40px; height: 170px; background-color: #0001364f;"
+      <div style="top: 40px; height: 250px; background-color: #0a0b269e;"
         class= " block sm:hidden absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-fixed"> 
 
         <div class="flex h-full items-center justify-center">
           <div class="px-md-0 px-14 text-center text-white">
-            <h2 class="mb-4 text-3xl font-semibold  bg-opacity-30 ">
+            <h2 class="mb-4 text-xl font-semibold  bg-opacity-30 ">
              TEAMRAY INTERNATIONAL
             </h2>
-            <h5 class="mb-6 text-lg font-semibold">
+            <h5 class="mb-6 text-sm font-semibold">
               Real State Properties
             </h5>
            
           </div>
         </div>
       </div>
-
+  </div>
 <section class="mt-0 sm:mt-24 mb-22" id="home">
 
   <div class="px-0 sm:px-6  py-12 md:px-12 bg-white text-gray-800 text-center lg:text-left">

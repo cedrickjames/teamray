@@ -114,7 +114,7 @@ display: block;
   style=" z-index: 1000" data-te-navbar-ref>
   <div class="h-full px-6 container flex flex-wrap items-center justify-between mx-0 md:mx-auto ">
     <a class="flex items-center">
-      <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo">
+      <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-2/4 sm:h-16" alt="Flowbite Logo">
       <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
     <!-- <button
@@ -143,9 +143,8 @@ display: block;
     <div class="flex sm:order-2">
       <!-- <div class="mytooltip">+63 9123456789</div> -->
       <div class="relative">
-        <a  href="tel:+639175253067" href="contact-us.php" type="button" id="cont2"
-          class="hidden text-white bg-amber-500  focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-amber-500  dark:focus:ring-amber-800">+63
-          9175253067</a>
+        <a  href="tel:+639175253067" type="button" id="cont2"
+          class="hidden text-white bg-amber-500  focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-amber-500  dark:focus:ring-amber-800">+639175253067</a>
         <a  href="tel:+639175253067" type="button" id="cont1"
           class=" text-white bg-transparent focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 sm:mr-0 dark:bg-transparent  dark:focus:ring-blue-800 ">
           <svg class=" w-10 h-full m-auto text-white" fill="none" stroke="currentColor" stroke-width="1.5"
@@ -476,11 +475,11 @@ display: block;
 <nav  style="background-color: #0f142a;z-index: 1000; height: 50px" class="block md:hidden bg-white px-2 sm:px-4 dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
   <div class="h-full container flex flex-wrap items-center justify-between mx-auto">
   <a class="h-full flex items-center" >
-        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-16 sm:h-16" alt="Flowbite Logo" >
+        <img src="resources/img/logo/teamlogo - Copy.png" class="mr-3 h-2/4 sm:h-16" alt="Flowbite Logo" >
         <!-- <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Website Template1</span> -->
     </a>
   <div class="flex md:order-2">
-    <a href="contact-us.php" type="button" class="text-white bg-amber-700 hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">Contact Us</a>
+    <a  href="tel:+639175253067" type="button" class="text-white bg-amber-700 hover:bg-amber-800 focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-3 md:mr-0 dark:bg-amber-600 dark:hover:bg-amber-700 dark:focus:ring-amber-800">Contact Us</a>
       <button data-drawer-target="sidebar" data-drawer-show="sidebar" aria-controls="sidebar"type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"  aria-expanded="false">
       <span class="sr-only">Open main menu</span>
       <svg class="w-6 h-6" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 10a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zM3 15a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"></path></svg>
